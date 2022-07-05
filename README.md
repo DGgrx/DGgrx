@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DGgrx
 - 👀 I’m interested in Cybersecurity, Robotics and IoT.
-- 🌱 I’m currently learning Web-dev, Networking, Web Application Hacking.
-- 💞️ I’m looking to collaborate on any projects related to Web-Dev and the field of Robotics.
+- 🌱 I’m currently learning Web-dev, App -dev, Networking, Web Application Hacking.
+- 💞️ I’m looking to collaborate on any projects related to Web-Dev or App-Dev and the field of Robotics.
 - 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/dggrx
 
 <!---
